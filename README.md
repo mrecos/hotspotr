@@ -7,7 +7,9 @@
 
 <!-- badges: end -->
 
-The goal of hotspotr is to …
+The goal of hotspotr is to mimic the ESRI ArcGIS vesrion of “HotSpot
+Analysis tool”. It is not a duplication of that tool, but replicates it
+in spirit…
 
 ## Installation
 

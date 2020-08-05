@@ -17,17 +17,11 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of hotspotr is to ...
+The goal of hotspotr is to mimic the ESRI ArcGIS vesrion of "HotSpot Analysis tool". It is not a duplication of that tool, but replicates it in spirit...
 
 ## Installation
 
-You can install the released version of hotspotr from [CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("hotspotr")
-```
-
-And the development version from [GitHub](https://github.com/) with:
+The development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
