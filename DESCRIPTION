@@ -20,4 +20,10 @@ Suggests:
     gstat,
     raster,
     ggplot2,
-    dplyr
+    dplyr,
+    sf,
+    tidyverse,
+    janitor,
+    spdep,
+    velox,
+    dismo
